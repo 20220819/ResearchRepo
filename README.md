@@ -12,7 +12,7 @@ Ideas Pile
 
 ## Software Dev
 Notes </br>
-Reflective Journal </br>
+[Reflective Journal](./SoftwareDev/reflectivejournal.md) </br>
 Terms and Glossary </br>
 Code </br>
 Weekly Personal Goals </br>

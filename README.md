@@ -8,7 +8,8 @@ My personal mission throughout my time at this course is to refresh my previous 
 Reflective Journal </br>
 Weekly Personal Goals </br>
 Terms and Glossary </br>
-Ideas Pile
+Ideas Pile </br>
+Issues/Things to learn
 
 ## Software Dev
 Notes </br>
@@ -16,6 +17,7 @@ Notes </br>
 Terms and Glossary </br>
 Code </br>
 Weekly Personal Goals </br>
-Ideas Pile
+Ideas Pile </br>
+Issues/Things to learn
 
 ## Other Junk I find interesting

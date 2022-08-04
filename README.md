@@ -7,7 +7,7 @@ My personal mission throughout my time at this course is to refresh my previous 
 [Notes](./TechSupport/notes/main.md) </br>
 Reflective Journal </br>
 Weekly Personal Goals </br>
-Terms and Glossary </br>
+[Terms and Glossary](./techsupport/glossary.md) </br>
 Ideas Pile </br>
 Issues/Things to learn
 

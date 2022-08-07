@@ -10,7 +10,7 @@ Weekly Personal Goals </br>
 [Terms and Glossary](./TechSupport/glossary.md) </br>
 Ideas Pile </br>
 Issues/Things to learn </br>
-ASSIGNMENT
+[ASSIGNMENT] (./TechSupport/practicalassessment/passessmentmain.md)
 
 ## Software Dev
 Notes </br>

@@ -9,7 +9,8 @@ Reflective Journal </br>
 Weekly Personal Goals </br>
 [Terms and Glossary](./TechSupport/glossary.md) </br>
 Ideas Pile </br>
-Issues/Things to learn
+Issues/Things to learn </br>
+ASSIGNMENT
 
 ## Software Dev
 Notes </br>

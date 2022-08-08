@@ -1,5 +1,5 @@
 # Research Den
-Welcome to my Research Repo. This is a place for me to store my notes, code and other things I'll need through out my time at Whitecliffe.
+Welcome to my Research Den/Repo. This is a place for me to store my notes, code and other things I'll need through out my time at Whitecliffe.
 
 My personal mission throughout my time at this course is to refresh my previous knowledge and build upon this foundation by learning new skills to build a carrer in this industry.
 

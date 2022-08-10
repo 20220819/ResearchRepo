@@ -16,7 +16,7 @@ Issues/Things to learn </br>
 [Notes](./SoftwareDev/notes/main.md) </br>
 [Reflective Journal](./SoftwareDev/reflectivejournal.md) </br>
 Terms and Glossary </br>
-Code </br>
+[Code](./SoftwareDev/code/main.md) </br>
 Weekly Personal Goals </br>
 Ideas Pile </br>
 Issues/Things to learn

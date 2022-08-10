@@ -13,7 +13,7 @@ Issues/Things to learn </br>
 [Assignment](./TechSupport/practicalassessment/passessmentmain.md)
 
 ## Software Dev
-Notes </br>
+[Notes](./SoftwareDev/notes/main.md) </br>
 [Reflective Journal](./SoftwareDev/reflectivejournal.md) </br>
 Terms and Glossary </br>
 Code </br>

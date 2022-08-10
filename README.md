@@ -15,10 +15,14 @@ Issues/Things to learn </br>
 ## Software Dev
 [Notes](./SoftwareDev/notes/main.md) </br>
 [Reflective Journal](./SoftwareDev/reflectivejournal.md) </br>
-Terms and Glossary </br>
 [Code](./SoftwareDev/code/main.md) </br>
 Weekly Personal Goals </br>
 Ideas Pile </br>
 Issues/Things to learn
 
 ## Other Junk I find interesting
+### Stuff for Game Dev - Doom. All videos by Decino, he breaks down the basic game elements and explains the code used for the game.
+[How DooM's RNG works](https://www.youtube.com/watch?v=pq3x1Jy8pYM) </br>
+[How DooM's BFG works](https://www.youtube.com/watch?v=MsCqLQJ1EOc) </br>
+[How Doom's weapons work](https://www.youtube.com/watch?v=GLeMj-OYV1c) </br>
+[Doom's Enemies](https://www.youtube.com/watch?v=1fcqYr1NevE) </br>

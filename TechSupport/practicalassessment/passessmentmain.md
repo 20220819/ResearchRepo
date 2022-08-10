@@ -42,11 +42,11 @@ Your manager has provided you with the following list of requirements:
 >Provide a suite of software tools available for monitoring and managing call logs and customer support. </br>
 >Design prioritisation system to handle support calls. </br>
 >Available budget: $20,000/- </br>
->Your task: develop a plan that identifies the following: </br>
 
-Hardware/software components and network devices.
-Communication channel that should be used to connect both sites - You can add more than one possible option to secure the channel.
-Costs of computing equipment and network components including any servers, infrastructure, printer, related hardware, software, accessories, and security protocols.
+Your task: develop a plan that identifies the following:
+>Hardware/software components and network devices. </br>
+>Communication channel that should be used to connect both sites - You can add more than one possible option to secure the channel. </br>
+>Costs of computing equipment and network components including any servers, infrastructure, printer, related hardware, software, accessories, and security protocols. </br>
 
 How will you handle the support call prioritisation?
 

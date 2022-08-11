@@ -1,7 +1,7 @@
 # CODING EXCERISES
 
 [Activity 1 - Write a Python program that calculates a dog's age in dog's years.](./dogage.py) </br>
-[Activity 2 - Write a Python program to convert month name to a number of days.] </br>
+[Activity 2 - Write a Python program to convert month name to a number of days.](./Months.py) </br>
 [Activity 3 - Write a Python program to check a string represent an integer or not.] </br>
 [Activity 4 - Write a Python program that ask user to input two numbers. Check if both numbers are divisible by 2 or 3, if yes multiply them and print them on screen. If not, add them and then print it on screen.] </br>
 [Activity 5 - Write a menu driven Python program that give user options to perform temperature conversion. Your code should be able to convert temperature from Celsius to Fahrenheit and vice versa.] </br>

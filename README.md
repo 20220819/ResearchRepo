@@ -26,3 +26,4 @@ Issues/Things to learn
 [How DooM's BFG works](https://www.youtube.com/watch?v=MsCqLQJ1EOc) </br>
 [How Doom's weapons work](https://www.youtube.com/watch?v=GLeMj-OYV1c) </br>
 [Doom's Enemies](https://www.youtube.com/watch?v=1fcqYr1NevE) </br>
+[ID Software's Github](https://github.com/id-Software_

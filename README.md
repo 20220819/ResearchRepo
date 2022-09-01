@@ -5,11 +5,8 @@ My personal mission throughout my time at this course is to refresh my previous 
 
 ## Tech Support
 [Notes](./TechSupport/notes/main.md) </br>
-Reflective Journal </br>
-Weekly Personal Goals </br>
 [Terms and Glossary](./TechSupport/glossary.md) </br>
 Ideas Pile </br>
-Issues/Things to learn </br>
 [Assignment](./TechSupport/practicalassessment/passessmentmain.md)
 
 ## Software Dev
@@ -18,7 +15,6 @@ Issues/Things to learn </br>
 [Code](./SoftwareDev/code/main.md) </br>
 Weekly Personal Goals </br>
 Ideas Pile </br>
-Issues/Things to learn
 
 ## Other Junk I find interesting
 ### Stuff for Game Dev - Doom. All videos by Decino, he breaks down the basic game elements and explains the code used for the game.

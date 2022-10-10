@@ -17,7 +17,7 @@ Weekly Personal Goals </br>
 Ideas Pile </br>
 
 ## Web Concepts
-[Notes](./webconcepts/notes/mainnotes.md) </br>
+[Notes](https://github.com/20220819/ResearchRepo/blob/main/webconcepts/notes/notesmain.md) </br>
 
 ## Other Junk I find interesting
 ### Stuff for Game Dev - Doom. All videos by Decino, he breaks down the basic game elements and explains the code used for the game.

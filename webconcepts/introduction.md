@@ -1,4 +1,5 @@
-Course Introduction
+# Course Introduction
+
 This course enables students to design and make websites by learning about UX techniques, web dev languages such as HTML and CSS. Will also cover DevOps and scripting languages EG JavaScript
 
 ## Learning Outcomes (LOs)

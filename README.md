@@ -36,6 +36,6 @@ As for the rest of the objects, as I have no skill in 3d modelling, I'll be usin
 [How Doom's BFG works](https://www.youtube.com/watch?v=MsCqLQJ1EOc) </br>
 [How Doom's weapons work](https://www.youtube.com/watch?v=GLeMj-OYV1c) </br>
 [Doom's Enemies](https://www.youtube.com/watch?v=1fcqYr1NevE) </br>
-[ID Software's Github](https://github.com/id-Software)
+[ID Software's Github](https://github.com/id-Software) </br>
 [Creating a Resident Evil Style Game in Unity](https://www.youtube.com/watch?v=2oLyySEbUMo&list=PLZ1b66Z1KFKgClHCa0cfJ5qc6PMrpU9PR) </br>
 [Tutorial/Lessons in Unity](https://www.youtube.com/watch?v=6WfYrxAeChw&list=PLZ1b66Z1KFKgClHCa0cfJ5qc6PMrpU9PR&index=5)

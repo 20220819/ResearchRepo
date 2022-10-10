@@ -17,7 +17,7 @@ Weekly Personal Goals </br>
 Ideas Pile </br>
 
 ## Web Concepts
-[Course Overview](./webconcepts/intoduction.md) </br>
+[Course Overview](https://github.com/20220819/ResearchRepo/blob/main/webconcepts/introduction.md) </br>
 [Notes](https://github.com/20220819/ResearchRepo/blob/main/webconcepts/notes/notesmain.md) </br>
 
 ## Other Junk I find interesting
